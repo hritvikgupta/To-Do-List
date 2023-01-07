@@ -3,10 +3,10 @@
 xmlns:app="http://schemas.android.com/apk/res-auto"
 xmlns:tools="http://schemas.android.com/tools"
 android:id="@+id/navigation"
-app:startDestination="@id/signupFragment">
+app:startDestination="@id/loginFragment">
     <fragment
         android:id="@+id/itemFragment"
-        android:name="com.example.to_do_list.view.itemFragment"
+        android:name="com.hgapplication.to_do_list.view.itemFragment"
         android:label="fragment_item"
         tools:layout="@layout/fragment_item">
     <action
@@ -16,7 +16,7 @@ app:startDestination="@id/signupFragment">
 
 <fragment
     android:id="@+id/signupFragment"
-    android:name="com.example.to_do_list.view.signUpFragment"
+    android:name="com.hgapplication.to_do_list.view.signUpFragment"
     android:label="fragment_signup"
     tools:layout="@layout/fragment_sign_up" >
     <action
@@ -28,7 +28,7 @@ app:startDestination="@id/signupFragment">
 </fragment>
 <fragment
     android:id="@+id/loginFragment"
-    android:name="com.example.to_do_list.view.loginFragment"
+    android:name="com.hgapplication.to_do_list.view.loginFragment"
     android:label="fragment_login"
     tools:layout="@layout/fragment_login" >
     <action
@@ -41,12 +41,12 @@ app:startDestination="@id/signupFragment">
 
 <fragment
     android:id="@+id/mainFragment"
-    android:name="com.example.to_do_list.view.mainFragment"
+    android:name="com.hgapplication.to_do_list.view.mainFragment"
     android:label="fragment_main"
     tools:layout="@layout/fragment_main" >
     <action
-        android:id="@+id/actionGoToSignup"
-        app:destination="@id/signupFragment" />
+        android:id="@+id/actionGoToLogin"
+        app:destination="@id/loginFragment" />
     <action
         android:id="@+id/actionGoToItems"
         app:destination="@id/itemFragment" />

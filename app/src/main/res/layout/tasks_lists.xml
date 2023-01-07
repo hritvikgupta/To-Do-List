@@ -9,7 +9,7 @@
     android:layout_marginLeft="5dp"
     android:layout_marginTop="10dp"
     app:cardCornerRadius="8dp"
-    app:cardElevation="5dp"
+    app:cardElevation="2dp"
     app:cardMaxElevation="5dp"
     android:layout_height="wrap_content"
     android:layout_marginBottom="5dp">
@@ -35,8 +35,9 @@
                 android:layout_height = "wrap_content"
                 android:text = "List_Name"
                 android:layout_marginTop = "5dp"
-                android:padding = "5dp"
-                android:textSize = "20sp"
+                android:padding = "10dp"
+                android:textColor = "@color/black"
+                android:textSize = "15sp"
                 />
 
         </LinearLayout>

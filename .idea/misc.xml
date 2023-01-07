@@ -6,18 +6,23 @@
         <entry key="app/src/main/res/drawable/addition.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/backpressed.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/delete.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/gradient_color.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/logout.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/reminder.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/search.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/task.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="app/src/main/res/layout/alert_dialog_add_list.xml" value="0.14361702127659576" />
         <entry key="app/src/main/res/layout/bottom_dialogue.xml" value="0.268091055063101" />
         <entry key="app/src/main/res/layout/date_time_picker.xml" value="0.13976287841796875" />
         <entry key="app/src/main/res/layout/fragment_item.xml" value="0.16275787353515625" />
-        <entry key="app/src/main/res/layout/fragment_login.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/fragment_login.xml" value="0.26425476074218746" />
         <entry key="app/src/main/res/layout/fragment_main.xml" value="0.26766204833984375" />
         <entry key="app/src/main/res/layout/fragment_sign_up.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/gradient_color.xml" value="0.1" />
         <entry key="app/src/main/res/layout/items_list.xml" value="0.28492714090550203" />
         <entry key="app/src/main/res/layout/items_menu.xml" value="0.25669642857142855" />
+        <entry key="app/src/main/res/layout/login_menu.xml" value="0.1" />
         <entry key="app/src/main/res/layout/main_menu.xml" value="0.285101318359375" />
         <entry key="app/src/main/res/layout/tasks_lists.xml" value="0.283852922155502" />
         <entry key="app/src/main/res/menu/menu.xml" value="0.24722222222222223" />

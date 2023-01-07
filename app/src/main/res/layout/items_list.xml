@@ -25,7 +25,8 @@
             >
             <ImageView
                 android:id = "@+id/imageViewItemFragment"
-                android:layout_width="30dp"
+                android:layout_width="0dp"
+                android:layout_weight = "1"
                 android:layout_height="30dp"
                 android:layout_marginLeft = "7dp"
                 android:layout_marginTop = "10dp"
@@ -34,11 +35,20 @@
             <TextView
                 android:id = "@+id/textViewItemTask"
                 android:layout_height = "wrap_content"
-                android:layout_width = "match_parent"
+                android:layout_width = "0dp"
                 android:text = "Task"
-                android:padding = "10dp"
-                android:textSize = "20sp"
+                android:layout_weight = "5"
+                android:padding = "13dp"
+                android:textSize = "15sp"
                 android:textStyle = "bold"/>
+
+            <TextView
+                android:id = "@+id/alarmSetTV"
+                android:layout_width = "0dp"
+                android:layout_height = "match_parent"
+                android:visibility = "gone"
+                android:layout_weight = "1"
+                android:layout_marginRight = "5dp"/>
 
         </LinearLayout>
 

@@ -9,4 +9,9 @@
     <color name="white">#FFFFFFFF</color>
     <color name="actionBar">#344955</color>
     <color name="statusBar">#232F34</color>
+    <color name="backGroundColor">#0336FF</color>
+    <color name="loginBackground">#FFDE03</color>
+
+
+
 </resources>
