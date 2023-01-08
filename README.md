@@ -9,7 +9,7 @@ https://user-images.githubusercontent.com/60143996/211173929-818a7e44-5736-464d-
 
   * This application is built using  Mainly MVVM (Model View View Model architecture).
   * Major Components of this android application are:-
-    - Room Database
+    - **Room Database**
     - Navigation Controller
     - Recycler View and Live data binding
     - Alarm and Notification Manager.
