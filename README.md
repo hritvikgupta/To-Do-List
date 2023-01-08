@@ -7,7 +7,7 @@ https://user-images.githubusercontent.com/60143996/211173929-818a7e44-5736-464d-
 
 <img
   src= https://user-images.githubusercontent.com/60143996/211174999-c5c0479d-c7e9-4148-af3a-c4f6239c4604.png
-  style="display: inline-block; margin: 0 auto; max-width: 200px">
+  style="display: inline-block; margin: 0 auto; max-width: 50px">
 
   * This application is built using  Mainly MVVM (Model View View Model architecture).
   * Major Components of this android application are:-
