@@ -5,7 +5,7 @@ task is pending.
 https://user-images.githubusercontent.com/60143996/211173929-818a7e44-5736-464d-b67a-32fce3d39864.mp4
 
 
-![image](https://user-images.githubusercontent.com/60143996/211175438-6dba23df-58f3-4fd9-bcfe-5da7f0813ea2.png | width = 100)
+![image](https://user-images.githubusercontent.com/60143996/211175438-6dba23df-58f3-4fd9-bcfe-5da7f0813ea2.png)
 
   * This application is built using  Mainly MVVM (Model View View Model architecture).
   * Major Components of this android application are:-
