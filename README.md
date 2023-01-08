@@ -8,6 +8,10 @@ task is pending.
     - Recycler View and Live data binding
     - Alarm and Notification Manager.
   
+ # Class Structure of Application:-
+<img width="393" alt="classdiagramtodolist" src="https://user-images.githubusercontent.com/60143996/211174926-2f72d243-15b2-4f79-b576-8340e756f841.png">
+
+   
   Note:- To be able to get push notification android version >=12 is expected.
 
 https://user-images.githubusercontent.com/60143996/211173929-818a7e44-5736-464d-b67a-32fce3d39864.mp4
