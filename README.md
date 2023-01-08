@@ -3,6 +3,8 @@ To Do List is an android application that allows you to track day to day tasks a
 task is pending.
 
 https://user-images.githubusercontent.com/60143996/211173929-818a7e44-5736-464d-b67a-32fce3d39864.mp4
+![image](https://user-images.githubusercontent.com/60143996/211174990-a7d80775-b04f-408f-9eb0-1ad028724023.png)
+
 
   * This application is built using  Mainly MVVM (Model View View Model architecture).
   * Major Components of this android application are:-
