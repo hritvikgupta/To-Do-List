@@ -8,7 +8,8 @@ task is pending.
     - Recycler View and Live data binding
     - Alarm and Notification Manager.
   
- # Class Structure of Application:-
+ # Class Structure of Application:-![pvtodolist](https://user-images.githubusercontent.com/60143996/211174940-f3954441-f9af-45c2-baf0-09408826bcca.png)
+
 <img width="393" alt="classdiagramtodolist" src="https://user-images.githubusercontent.com/60143996/211174926-2f72d243-15b2-4f79-b576-8340e756f841.png">
 
    
