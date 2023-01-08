@@ -6,6 +6,7 @@ https://user-images.githubusercontent.com/60143996/211173929-818a7e44-5736-464d-
 
 
 ![image](https://user-images.githubusercontent.com/60143996/211175438-6dba23df-58f3-4fd9-bcfe-5da7f0813ea2.png)
+<img src="https://user-images.githubusercontent.com/60143996/211175438-6dba23df-58f3-4fd9-bcfe-5da7f0813ea2.png" width="200" height="400" />
 
   * This application is built using  Mainly MVVM (Model View View Model architecture).
   * Major Components of this android application are:-
