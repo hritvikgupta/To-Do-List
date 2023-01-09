@@ -16,7 +16,7 @@ https://user-images.githubusercontent.com/60143996/211173929-818a7e44-5736-464d-
  **Note**:- To be able to get push notification android version >=12 is expected.
 
  # Class Structure of Application:-
-<img width="300" height="450" alt="classumltodo" src="https://user-images.githubusercontent.com/60143996/211175824-5ab39ced-ec5e-4940-8868-09d8da5c4ab8.png">
+<img width="400" height="450" alt="classumltodo" src="https://user-images.githubusercontent.com/60143996/211175824-5ab39ced-ec5e-4940-8868-09d8da5c4ab8.png">
 
  # UML Diagram
  <img src="https://user-images.githubusercontent.com/60143996/211174940-f3954441-f9af-45c2-baf0-09408826bcca.png" width="450" height="450" />
