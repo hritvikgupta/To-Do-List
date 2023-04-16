@@ -6,6 +6,15 @@ To Do List is an Android application that allows you to track day-to-day tasks a
 
 ![To-Do-List Screenshots](https://user-images.githubusercontent.com/60143996/211175438-6dba23df-58f3-4fd9-bcfe-5da7f0813ea2.png)
 
+
+## Screen Shots
+
+<img width="512" alt="signUp" src="https://user-images.githubusercontent.com/60143996/232342122-f721da78-4bb4-4e68-9500-853d11ddad69.png">
+<img width="512" alt="reminder" src="https://user-images.githubusercontent.com/60143996/232342123-c0057929-cb2a-4b81-831a-8ba7b98f8c3c.png">
+<img width="512" alt="Login" src="https://user-images.githubusercontent.com/60143996/232342125-429ea19a-407c-42f5-b1f2-48a479e1ecc5.png">
+<img width="512" alt="Items" src="https://user-images.githubusercontent.com/60143996/232342126-dd3e1fe2-b80f-4245-8aed-8d1d1e8146ba.png">
+
+
 ## Features
 
 - Add and delete tasks
