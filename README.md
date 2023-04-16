@@ -9,10 +9,12 @@ To Do List is an Android application that allows you to track day-to-day tasks a
 
 ## Screen Shots
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/60143996/232342122-f721da78-4bb4-4e68-9500-853d11ddad69.png" width="128" />
-  <img src="https://user-images.githubusercontent.com/60143996/232342123-c0057929-cb2a-4b81-831a-8ba7b98f8c3c.png" width="128" /> 
-  <img src="https://user-images.githubusercontent.com/60143996/232342125-429ea19a-407c-42f5-b1f2-48a479e1ecc5.png" width="128" />
-  <img src="https://user-images.githubusercontent.com/60143996/232342126-dd3e1fe2-b80f-4245-8aed-8d1d1e8146ba.png" width="128" />
+  <img src="https://user-images.githubusercontent.com/60143996/232342122-f721da78-4bb4-4e68-9500-853d11ddad69.png" width="512" />
+  <img src="https://user-images.githubusercontent.com/60143996/232342123-c0057929-cb2a-4b81-831a-8ba7b98f8c3c.png" width="512" /> 
+</p>
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/60143996/232342125-429ea19a-407c-42f5-b1f2-48a479e1ecc5.png" width="512" />
+  <img src="https://user-images.githubusercontent.com/60143996/232342126-dd3e1fe2-b80f-4245-8aed-8d1d1e8146ba.png" width="512" />
 </p>
 
 ## Features
